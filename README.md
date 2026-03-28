@@ -4,8 +4,8 @@ Meu nome é <i>Fábio Rodrigues</i>, e atualmente sou Programador <b>Front-End</
 <br>
 Até o momento, estou aprendendo tecnologias como:
 <br>
-  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+  - <img src="https://img.shields.io/badge/HTML5-E54C21" alt="html-logo" />
+  - <img src="https://img.shields.io/badge/CSS-214CE5" alt="css-logo" />
   - <img src ="https://img.shields.io/badge/Javascript-F7E018" alt="javascript-logo" />
   <br>
 Aqui, postarei meus avanços e projetos ao longo de meu aprendizado. Caso queira me acompanhar, segue abaixo meu Instagram:
