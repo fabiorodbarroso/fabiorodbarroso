@@ -6,7 +6,7 @@ Até o momento, estou aprendendo tecnologias como:
 <br>
   - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
   - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-  - <img src ="https://img.shields.io/badge/JAVASCRIPT-000021?style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript-logo" />
+  - <img src ="https://img.shields.io/badge/Javascript-F7E018" alt="javascript-logo" />
   <br>
 Aqui, postarei meus avanços e projetos ao longo de meu aprendizado. Caso queira me acompanhar, segue abaixo meu Instagram:
   <a href="https://instagram.com/fabiorodbarrosoo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-instagram"/>
